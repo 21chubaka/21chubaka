@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Will O'Donohoe 👋
 
 ### Connect with me 🤝
 <a href="https://www.linkedin.com/in/will-o-donohoe-80798265">

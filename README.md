@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+### Connect with me 🤝
+<a href="https://www.linkedin.com/in/will-o-donohoe-80798265">
+  <img align="left" alt="Will O'Donohoe's Linkedin" width="22px" src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/svg/linkedin.svg" />
+</a>
 <!--
 **21chubaka/21chubaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

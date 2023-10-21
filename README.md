@@ -5,7 +5,7 @@ I have been working with data for 10+ years in all types of capacities, but most
 - Addicted to Learning
 ### Connect with me 🤝
 <a href="https://www.linkedin.com/in/will-o-donohoe-80798265">
-  <img align="left" alt="Will O'Donohoe's Linkedin" width="22px" src="[https://raw.githubusercontent.com/21chubaka/media/linkedin_icon.png](https://github.com/21chubaka/media/blob/main/linkedin_icon.png)" />
+  <img align="left" alt="Will O'Donohoe's Linkedin" width="22px" src="https://github.com/21chubaka/media/blob/main/linkedin_icon.png" />
 </a>
 
 <!--
